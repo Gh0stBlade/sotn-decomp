@@ -7,3 +7,9 @@
 [submodule "tools/m2c"]
 	path = tools/m2c
 	url = https://github.com/matt-kempster/m2c.git
+[submodule "sdk/libValkyrie"]
+	path = sdk/libValkyrie
+	url = https://github.com/Gh0stBlade/libValkyrie.git
+[submodule "sdk/SDL"]
+	path = sdk/SDL
+	url = https://github.com/libsdl-org/SDL.git
